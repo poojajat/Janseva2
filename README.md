@@ -26,7 +26,7 @@ This project is used by:
 ## Use Case
 By cliking the link of specific section you will turn to the page and on that page you will get the information along with location map.
 
-![](https://github.com/poojajat/Janseva/blob/main/JF.gif)
+![](https://github.com/poojajat/Janseva2/blob/master/JF.gif)
 
 ## Author
 POOJA JAT
