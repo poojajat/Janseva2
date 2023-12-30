@@ -1,4 +1,5 @@
-![j1](https://github.com/poojajat/Janseva/assets/152059744/cbb6b02f-00d4-41d8-a003-1e273a3649f3)
+![j1](https://github.com/poojajat/Janseva2/assets/152059744/8b0324bb-de67-4129-ae56-97cf5e8ea1d6)
+
 # Janseva
  Janseva is  a social helping platform that aims to provide essential information to people about the public facilities available in their area. At Janseva, we understand the importance of having access to clean water, hygienic public washrooms, and nearby government hospitals in case of medical emergencies.
  
