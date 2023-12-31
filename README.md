@@ -15,8 +15,8 @@
 
 ## Sections
 It mainly contains four sections, Which contains information of nearby Waterpots,Public washrooms,Government Hospitals and Government schools.
-![j2](https://github.com/poojajat/Janseva/assets/152059744/ca924fbb-d0b6-41a2-b511-3f88dc0238f3)
-![j3](https://github.com/poojajat/Janseva/assets/152059744/65010742-b8dc-45ec-9f3a-4c17562d8744)
+![j2](https://github.com/poojajat/Janseva2/assets/152059744/b6c74e4c-4c17-4061-aa76-c42e2d3c748f)
+![j3](https://github.com/poojajat/Janseva2/assets/152059744/02a6ffe4-def8-4dc9-906c-2ab6d375efc8)
 
 ## Used By
 This project is used by:
